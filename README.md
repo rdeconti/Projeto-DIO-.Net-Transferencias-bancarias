@@ -6,7 +6,7 @@
 # Projeto 02
 # Transferências bancárias
 Este projeto foi proposto pela Digital Innovation One no Bootcamp MRV .NET Developer.
-Link do código original: https://github.com/elizarp/dio-dotnet-poo-lab-2              ?????
+Link do código original: https://github.com/elizarp/dio-dotnet-poo-lab-1
 
 # Descrição
 Criando uma aplicação de transferências bancárias com .NET
