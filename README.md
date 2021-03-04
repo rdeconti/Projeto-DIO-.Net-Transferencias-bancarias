@@ -2,11 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
-# Bootcamp DIO MRV .NET 
-# Projeto 02
+# Projeto Digital Innovation One .Net 
 # Transferências bancárias
-Este projeto foi proposto pela Digital Innovation One no Bootcamp MRV .NET Developer.
-Link do código original: https://github.com/elizarp/dio-dotnet-poo-lab-1
+Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/elizarp/dio-dotnet-poo-lab-1
 
 # Descrição
 Criando uma aplicação de transferências bancárias com .NET
