@@ -1,0 +1,13 @@
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\bin\Debug\netcoreapp3.1\Transferencias-bancarias.exe
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\bin\Debug\netcoreapp3.1\Transferencias-bancarias.deps.json
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\bin\Debug\netcoreapp3.1\Transferencias-bancarias.runtimeconfig.json
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\bin\Debug\netcoreapp3.1\Transferencias-bancarias.runtimeconfig.dev.json
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\bin\Debug\netcoreapp3.1\Transferencias-bancarias.dll
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\bin\Debug\netcoreapp3.1\Transferencias-bancarias.pdb
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\obj\Debug\netcoreapp3.1\Transferencias-bancarias.csprojAssemblyReference.cache
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\obj\Debug\netcoreapp3.1\Transferencias-bancarias.AssemblyInfoInputs.cache
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\obj\Debug\netcoreapp3.1\Transferencias-bancarias.AssemblyInfo.cs
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\obj\Debug\netcoreapp3.1\Transferencias-bancarias.csproj.CoreCompileInputs.cache
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\obj\Debug\netcoreapp3.1\Transferencias-bancarias.dll
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\obj\Debug\netcoreapp3.1\Transferencias-bancarias.pdb
+C:\0000. Github - Projects - DIO - NET\Projeto-DIO-.Net-Transferencias-bancarias\Transferencias-bancarias\obj\Debug\netcoreapp3.1\Transferencias-bancarias.genruntimeconfig.cache
