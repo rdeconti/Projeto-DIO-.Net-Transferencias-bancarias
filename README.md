@@ -13,6 +13,23 @@ Aprenda como criar um algoritmo simples de transferência bancária para exercer
 # Melhorias implementadas
 - Correção da acentuação para console (via comando: Console.OutputEncoding = System.Text.Encoding.UTF8;)
 
-# Telas
-Exibir as opções do DIOFLIX
-<img src="https://github.com/rdeconti/Project-Dio-Crud-Console/blob/main/DIOFLIX%20-%20Op%C3%A7%C3%B5es.png" />
+# Melhorias futuras
+- Implementar com banco de dados
+- Verificar se contas informadas pelo usuário existem e em caso negativo enviar mensagem de erro
+
+# Testes executados (utilizando IDE Visual Studio 2019)
+
+## Teste: Incluir conta
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias/blob/main/Teste-Incluir.jpg" />
+
+## Teste: Listar contas
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias/blob/main/Teste-Listar.jpg" />
+
+## Teste: Sacar
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias/blob/main/Teste-Sacar.jpg" />
+
+## Teste: Despositar
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias/blob/main/Teste-Despositar.jpg" />
+
+## Teste: Transferir
+<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Transferencias-bancarias/blob/main/Teste-Transferir.jpg" />
